@@ -1,0 +1,7 @@
+[23-Nov-2017 15:34:27 Asia/Kolkata] PHP Warning:  mysql_insert_id() expects parameter 1 to be resource, object given in /home/agentapp24/public_html/unibyz.com/ProjectManager/ajax/task.php on line 17
+[23-Nov-2017 15:34:27 Asia/Kolkata] PHP Fatal error:  Call to undefined function fatal_error() in /home/agentapp24/public_html/unibyz.com/ProjectManager/ajax/task.php on line 23
+[23-Nov-2017 15:34:36 Asia/Kolkata] PHP Warning:  mysql_insert_id() expects parameter 1 to be resource, object given in /home/agentapp24/public_html/unibyz.com/ProjectManager/ajax/task.php on line 17
+[23-Nov-2017 15:34:36 Asia/Kolkata] PHP Fatal error:  Call to undefined function fatal_error() in /home/agentapp24/public_html/unibyz.com/ProjectManager/ajax/task.php on line 23
+[23-Nov-2017 15:35:09 Asia/Kolkata] PHP Warning:  mysql_insert_id() expects parameter 1 to be resource, object given in /home/agentapp24/public_html/unibyz.com/ProjectManager/ajax/task.php on line 17
+[23-Nov-2017 16:26:57 Asia/Kolkata] PHP Warning:  mysql_insert_id() expects parameter 1 to be resource, object given in /home/agentapp24/public_html/unibyz.com/ProjectManager/ajax/task.php on line 17
+[23-Nov-2017 16:32:24 Asia/Kolkata] PHP Warning:  mysql_insert_id() expects parameter 1 to be resource, object given in /home/agentapp24/public_html/unibyz.com/ProjectManager/ajax/task.php on line 17
